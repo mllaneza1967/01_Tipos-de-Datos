@@ -1,7 +1,6 @@
-
-trabajo #01 - tipos de datos
-AyED 
-CURSO K1253
-lEGAJO:
-nOMBRE: Miguel Angel Llaneza
-principiante
+- Algoritmos y Estructuras de Datos
+- curso k1253
+- 2022
+- legajo: 2037786
+- LLANEZA
+- Hola mi nombre es Miguel Angel
